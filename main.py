@@ -69,7 +69,7 @@ ABOUT_TEXT = """--**About Me**-- 😎
 
 👥 **Feedback :** [Tap here](https://telegram.me/jospsupportbot)
 
-🌐 **Source :** [👉 Press me](https://github.com/ZauteKm/Image-Upload-Bot)
+🌐 **Source :** [👉 Press me](https://github.com/KGN-BOTS/Image-Upload-Bot)
 
 📝 **Language :** [Python3](https://python.org)
 
